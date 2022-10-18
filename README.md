@@ -1,4 +1,5 @@
-<a href="https://apigit.com/"><img src="" /></a><br />
+<a href="https://apigit.com/"><img src="images/api-main.png" /></a><br />
+
 _APIGIT is a native Git based collaboration platform for API design, document, mock and share._
 
 # APIGIT App Support
