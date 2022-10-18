@@ -1,1 +1,1 @@
-here is to storage all the documents related images
+here is to save all the documents related images
